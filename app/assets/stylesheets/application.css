@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+
+body {
+  padding: 0.5em;
+}
+
+#form_block {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 4px;
+}
+
+.timestamp {
+  padding-right: 1em;
+}
